@@ -1,0 +1,22 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+img{
+  height: 100px;
+  width: 100px;
+
+}
+.title{
+  font-size: 36pc;
+  font-weight: 900;
+  margin: 32px;
+}
+.container{
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+.info{
+  max-width: 200px;
+}
